@@ -1,3 +1,2 @@
 # Conceitos
-- Conjunto
-- Conjunto Numérico
+

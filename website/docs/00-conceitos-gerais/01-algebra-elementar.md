@@ -1,0 +1,31 @@
+# Algebra Elementar
+- Equações
+	- Sistema de Equações
+- Inequacões
+- Expressões Algébricas
+- Funções:
+	- Definição de Função
+	- Funções de Primeiro Grau
+	- Funcões de Segundo Grau
+	- Função Afim
+	- Zero e gráfico de função afim
+	- Função Quadrática
+	- Zero e gráfico de função quadrática
+	- Vértice da função quadrática
+	- Função Modular
+	- Função Trigonométrica
+	- Função Seno
+	- Função Cosseno
+	- Função Tangente
+	- Aplicações das Funções Trigonométricas
+	- Funcão Exponencial
+	- Uso de log em funções exponenciais
+	- Função Logarítmica
+	- Analisar Funções por meio de seus Gráficos
+	- Relações entre variáveis e funções
+	- Domínio de Funções
+	- Tipos de Funções
+	- Função Composta
+	- Função Inversa
+- Aplicar e entender sobre o uso de razões trigonométricas, para resolver problemas.
+- Reconhecer padrões de crescimento e decrescimento exponencial. 
