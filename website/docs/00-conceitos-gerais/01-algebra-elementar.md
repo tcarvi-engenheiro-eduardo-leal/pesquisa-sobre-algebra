@@ -5,27 +5,33 @@
 - Expressões Algébricas
 - Funções:
 	- Definição de Função
-	- Funções de Primeiro Grau
-	- Funcões de Segundo Grau
-	- Função Afim
-	- Zero e gráfico de função afim
-	- Função Quadrática
-	- Zero e gráfico de função quadrática
-	- Vértice da função quadrática
-	- Função Modular
-	- Função Trigonométrica
-	- Função Seno
-	- Função Cosseno
-	- Função Tangente
-	- Aplicações das Funções Trigonométricas
-	- Funcão Exponencial
-	- Uso de log em funções exponenciais
-	- Função Logarítmica
-	- Analisar Funções por meio de seus Gráficos
-	- Relações entre variáveis e funções
-	- Domínio de Funções
 	- Tipos de Funções
-	- Função Composta
-	- Função Inversa
-- Aplicar e entender sobre o uso de razões trigonométricas, para resolver problemas.
-- Reconhecer padrões de crescimento e decrescimento exponencial. 
+		- Funções de Primeiro Grau
+		- Funcões de Segundo Grau
+		- Função Afim
+			- Zero e gráfico de função afim
+		- Funcão Exponencial
+			- Função Quadrática
+				- Zero e gráfico de função quadrática
+				- Vértice da função quadrática
+			- Uso de log em funções exponenciais
+			- Reconhecer padrões de crescimento e decrescimento exponencial. 
+		- Função Modular
+		- Função Trigonométrica
+			- Função Seno
+			- Função Cosseno
+			- Função Tangente
+			- Funcão sec
+			- Função cosecante
+			- Função Cotangente
+			- Aplicações das Funções Trigonométricas
+			- Aplicar e entender sobre o uso de razões trigonométricas, para resolver problemas.
+		- Função Logarítmica
+	- Análise de Funções
+		- Analisar Funções por meio de seus Gráficos
+		- Relações entre variáveis e funções
+		- Domínio de Funções
+		- Gráfico de Funções
+	- Operações com Funções
+		- Função Composta
+		- Função Inversa
