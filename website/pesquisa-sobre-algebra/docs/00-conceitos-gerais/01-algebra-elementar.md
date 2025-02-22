@@ -43,6 +43,7 @@
 - $ a^{-1b} = \frac{1}{a^b} $
 - $ a^{b+c} = a^b . a^c $
 - $ a^b . a^c = a^{b+c} $
+- $ (a^b)^{c} = a^{bc} $
 
 ## Inequações Exponenciais
 - Propriedades de inequações Exponenciais:
@@ -69,6 +70,7 @@
 	- $ \log_{a}{b} - \log_{a}{c} = \log_{a}{\frac{b}{c}} $
 	- $ \log_{a}{b^c} = c \, . \, \log_{a}{b} $
 	- $ c \, . \, \log_{a}{b} = \log_{a}{b^c} $
+	- $ \log_{a}{b} = \frac{\log_{c}{b}}{\log_{c}{a}} $
 
 # Inequações Logarítmicas
 - Propriedades de inequações Logarítmicas:
@@ -94,14 +96,14 @@
 		- Razão:
 			- $$ r = a_{i+1} - a_{i} $$
 		- Fórumula Geral:
-			- Sequência $$ a_i = a_1 + (n-1).r $$
+			- Sequência $$ a_n = a_1 + (n-1).r $$
 		- Soma de Todos os Termos de uma PA
 			- $$ S_n = \frac{(a_1+a_n).n}{2} $$
 	- Progressão Aritmétrica (PG)
 		- Razão:
 			- $$ q = \frac{a_{i+1}}{a_{i}} $$
 		- Fórumula Geral:
-			- Sequência $$ a_i = a_1 . q^{i-1} $$ 
+			- Sequência $$ a_n = a_1 . q^{n-1} $$ 
 		- Soma de Todos os Termos de uma PG Finita:
 			- $$ S_n = \frac{a_1 (q^{n}-1)}{q-1} $$
 		- Soma de Todos os Termos de uma PG Infinita:
